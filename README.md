@@ -18,7 +18,7 @@
 ## 📦 How to Run
 
 1. Clone the repo:
-   git clone https://github.com/YOUR_USERNAME/echomind.git
+   git clone https://github.com/SamruddhiFaratkhane/EchoMind.git
    cd echomind
 
 2. Install dependencies:
@@ -33,7 +33,7 @@
 ---
 
 ## 📁 Project Structure
-
+```text
 echomind/
 ├── app.py
 ├── models/
@@ -46,7 +46,7 @@ echomind/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-
+```
 ---
 
 ## 💡 Developed By
