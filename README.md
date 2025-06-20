@@ -51,5 +51,5 @@ echomind/
 
 ## 💡 Developed By
 Samruddhi Faratkhane
-AI & DS, AISSMS IOIT 
-Pune, India
+| AI & DS, AISSMS IOIT 
+| Pune, India
