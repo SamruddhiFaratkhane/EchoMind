@@ -1,0 +1,33 @@
+Timestamp,Text,Sentiment Label,Sentiment Score,Entities,timestamp,text,sentiment_label,sentiment_score,sentiment,score,label
+2025-06-06 23:10:55,I went to Mumbai today with Sam. It was an amazing experience. I enjoyed a lot.,POSITIVE,100.0,Mumbai (GPE); today (DATE); Sam (PERSON),,,,,,,
+2025-06-06 23:18:38,i am very upset,NEGATIVE,100.0,,,,,,,,
+2025-06-06 23:19:28,i feel tired but it was okayish day. half of it was good other half was bad,POSITIVE,90.0,half (CARDINAL); half (CARDINAL),,,,,,,
+2025-06-06 23:21:36,i feel lost,NEGATIVE,100.0,,,,,,,,
+,,,,,2025-06-06 23:28:10,I am very happy . I learned a lot of things.. hoping for similar good days,POSITIVE,1.0,,,
+,,,,,2025-06-06 23:28:34,I am feeling depressed,NEGATIVE,1.0,,,
+,,,,,2025-06-06 23:31:01,will everything get better? I am hoping for happy times.,,,POSITIVE,1.0,
+,,,,,2025-06-06 23:33:00,i feel like giving up.. I am tired ..I will quit if this does not works well,NEGATIVE,1.0,,,
+,,,,,2025-06-08 11:09:15,i am angry,NEGATIVE,1.0,,,
+,,,,,2025-06-08 11:09:51,i am happy,POSITIVE,1.0,,,
+,,,,,2025-06-08 11:29:54,i am not happy but not sad either.. my mood is okay... not good but not bad,,,,100.0,POSITIVE
+,,,,,2025-06-08 11:31:20,i feel tired but it was okayish day. half of it was good other half was bad,,,,90.0,POSITIVE
+,,,,,2025-06-08 11:33:05,i am very very very sad,,,,100.0,NEGATIVE
+,,,,,2025-06-08 11:45:12,i am feeling 50% sad and 50% happy,,,,100.0,POSITIVE
+,,,,,2025-06-08 11:50:23,everything is going to be alright. Even though we are sad today we'll get through this tough and unhappy times,POSITIVE,100.0,,,
+,,,,,2025-06-09 22:30:46,i passed all my exams. I am supposed to be very happy yet I am not understanding what i am feeling right now.. it is quite a different feeling,POSITIVE,91.0,,,
+,,,,,2025-06-09 22:54:23,"I passed all my exams. I am supposed to be very happy yet I am not understanding what I am feeling right now.. it is quite a different feeling
+",POSITIVE,8050.0,,,
+,,,,,2025-06-09 22:54:26,"I passed all my exams. I am supposed to be very happy yet I am not understanding what I am feeling right now.. it is quite a different feeling
+",POSITIVE,8050.0,,,
+,,,,,2025-06-09 22:55:02, was a wonderful day. Very nice.,POSITIVE,100.0,,,
+,,,,,2025-06-09 23:12:47,i am so happy. I successfully completed all of the tasks for the week. I am so relieved . Now I will go for a good walk,POSITIVE,10000.0,,,
+,,,,,2025-06-09 23:14:42,"It was an okay trip. Not good but not bad. I ended up spending all of my money, this was the terrible part. I played with a cute kitten, this was the best part.",POSITIVE,9300.0,,,
+,,,,,2025-06-09 23:15:22,"Not good but not bad. I ended up spending all of my money, this was the terrible part. I played with a cute kitten, this was the best part.",POSITIVE,9067.0,,,
+,,,,,2025-06-09 23:15:42,"Not good but not bad. I ended up spending all of my money, this was the terrible part.",POSITIVE,8600.0,,,
+,,,,,2025-06-09 23:23:30,"Not good but not bad. I ended up spending all of my money, this was the terrible part.",POSITIVE,8600.0,,,
+,,,,,2025-06-09 23:28:46,"Not good but not bad. I ended up spending all of my money, this was the terrible part.",NEGATIVE,7548.0,,,
+,,,,,2025-06-20 10:33:48,"I am feeling stressed and depressed. I am trying very hard, but i know eventually everything will get better.",POSITIVE,8620.0,,,
+,,,,,2025-06-20 10:37:28,"I am feeling stressed and depressed. I am trying very hard, but i know eventually everything will get better.",POSITIVE,8620.0,,,
+,,,,,2025-06-20 10:44:56,"I am feeling stressed and depressed. I am trying very hard, but i know eventually everything will get better.",POSITIVE,8620.0,,,
+,,,,,2025-06-20 10:49:25,"I am feeling stressed and depressed. I am trying very hard, but i know eventually everything will get better.",POSITIVE,8620.0,,,
+,,,,,2025-06-20 10:50:50, was a wonderful day. Very nice.,POSITIVE,99.04,,,
